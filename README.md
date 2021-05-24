@@ -8,7 +8,7 @@ alt=rcurtin /> </p>
  -->
  
  <p align="center">
-<img src="https://user-images.githubusercontent.com/13490001/97367217-f8363e00-1865-11eb-8f20-aa565a75df2e.gif">
+<img src="https://github.com/S-kwen/S-kwen/blob/main/gif/bda5d6b22c98ec451337deec8d199b1e.gif">
 </p>
 
 Hey there 👋,
