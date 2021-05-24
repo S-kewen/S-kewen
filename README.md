@@ -23,7 +23,7 @@ I’m Gui-Hua, Shi, you can also call me Skwen. I am a senior student major in I
 
 ## 📌 Pinned
 | | |
-| :--- | :--- |
+| :--- | :--- | :--- |
 | 👋 [Summary](https://profile-summary-for-github.com/user/S-kwen) | 💖 [SpringCloud](https://github.com/S-kwen/spring-cloud) | 🔪 [LeetCode](https://github.com/S-kwen/leetcode) |
 
 ## Get in touch
