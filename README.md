@@ -12,7 +12,7 @@ alt=rcurtin /> </p>
 </p>
 Hey there 👋,
 
-Hi, I’m Gui-Hua, Shi, you can also call me Skwen. I am a senior student major in Information Management at the National Yunlin University of Science and Technology as an international student.
+I’m Gui-Hua, Shi, you can also call me Skwen. I am a senior student major in Information Management at the National Yunlin University of Science and Technology as an international student.
 
 ## 📌 Pinned
 | | |
