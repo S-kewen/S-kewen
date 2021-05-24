@@ -1,7 +1,7 @@
 <!-- ### Hi, I'm [Skwen!](https://i.iskwen.com)👋👋 
 
 <p align="left"> <img
-src=https://github-readme-stats.vercel.app/api?username=S-kwen&show_icons=true&hide_rank=true
+src=https://github-readme-stats.vercel.app/api?username=S-kwen&show_icons=true&hide_rank=truealt=rcurtin%EF%BC%86count_private=true&theme=radical
 alt=rcurtin /> </p>
 
  🔭 I’m currently working on distributed systems.
@@ -10,6 +10,9 @@ alt=rcurtin /> </p>
  <p align="center">
 <img src="https://user-images.githubusercontent.com/13490001/97367217-f8363e00-1865-11eb-8f20-aa565a75df2e.gif">
 </p>
+<img
+src=https://github-readme-stats.vercel.app/api?username=S-kwen&show_icons=true&hide_rank=truealt=rcurtin%EF%BC%86count_private=true&theme=radical
+alt=rcurtin />
 Hey there 👋,
 
 I’m Gui-Hua, Shi, you can also call me Skwen. I am a senior student major in Information Management at the National Yunlin University of Science and Technology as an international student.
