@@ -13,7 +13,7 @@ alt=rcurtin /> </p>
 
 Hey there 👋,
 
-I’m Gui-Hua, Shi, you can also call me Skwen.  I am a student major in Information Management at the National Yunlin University of Science and Technology.
+I’m Gui-Hua, Shi, you can also call me Skwen.  I am a master student major in ISA at the National Tsing Hua University.
 
 
 <p align="center">
