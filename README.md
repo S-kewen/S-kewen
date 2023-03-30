@@ -26,8 +26,8 @@ I’m Gui-Hua, Shi, you can also call me Skewen.  I am a master student major in
 | :--- | :--- | :--- |
 | 👋 [Summary](https://profile-summary-for-github.com/user/S-kewen) | 💖 [SpringCloud](https://github.com/S-kewen/spring-cloud) | 🔪 [LeetCode](https://github.com/S-kewen/leetcode) |
 
-## Get in touch
+<!-- ## Get in touch
 - CV: https://cv.iskwen.com
-- Blog: https://blog.iskwen.com
+- Blog: https://blog.iskwen.com -->
 
 
