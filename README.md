@@ -13,7 +13,7 @@ alt=rcurtin /> </p>
 
 Hey there 👋,
 
-I’m Gui-Hua, Shi, you can also call me Skewen.  I am a master student major in ISA at the National Tsing Hua University.
+I’m Guihua Shi, you can also call me Skewen.  I am a master student major in ISA at the National Tsing Hua University.
 
 
 <p align="center">
