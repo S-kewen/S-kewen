@@ -23,7 +23,7 @@ I’m Guihua Shi, you can also call me Skewen. I graduated with a master's degre
 ## 📌 Pinned
 | | | |
 | :--- | :--- | :--- |
-| 👋 [Summary](https://profile-summary-for-github.com/user/S-kewen) | 💖 [SpringCloud](https://github.com/S-kewen/spring-cloud) | 🔪 [CARLA(https://github.com/S-kewen/carla-generator) |
+| 👋 [Summary](https://profile-summary-for-github.com/user/S-kewen) | 💖 [SpringCloud](https://github.com/S-kewen/spring-cloud) | 🔪 [CARLA](https://github.com/S-kewen/carla-generator) |
 
 <!-- ## Get in touch
 - CV: https://cv.iskwen.com
