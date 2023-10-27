@@ -4,7 +4,7 @@
 src=https://github-readme-stats.vercel.app/api?username=S-kewen&show_icons=true&hide_rank=truealt=rcurtin%EF%BC%86count_private=true&theme=radical
 alt=rcurtin /> </p>
 
- 🔭 I’m currently working on distributed systems.
+ 🔭 I’m currently working on computer vision and deep learning.
  -->
  
  <p align="center">
@@ -13,8 +13,7 @@ alt=rcurtin /> </p>
 
 Hey there 👋,
 
-I’m Guihua Shi, you can also call me Skewen.  I am a master student major in ISA at the National Tsing Hua University.
-
+I’m Guihua Shi, you can also call me Skewen. I graduated with a master's degree from National Tsing Hua University in 2023.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=S-kewen&show_icons=true&hide_rank=truealt=rcurtin%EF%BC%86count_private=true&theme=radical">
@@ -24,7 +23,7 @@ I’m Guihua Shi, you can also call me Skewen.  I am a master student major in I
 ## 📌 Pinned
 | | | |
 | :--- | :--- | :--- |
-| 👋 [Summary](https://profile-summary-for-github.com/user/S-kewen) | 💖 [SpringCloud](https://github.com/S-kewen/spring-cloud) | 🔪 [LeetCode](https://github.com/S-kewen/leetcode) |
+| 👋 [Summary](https://profile-summary-for-github.com/user/S-kewen) | 💖 [SpringCloud](https://github.com/S-kewen/spring-cloud) | 🔪 [CARLA(https://github.com/S-kewen/carla-generator) |
 
 <!-- ## Get in touch
 - CV: https://cv.iskwen.com
